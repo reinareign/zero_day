@@ -1,1 +1,1 @@
-Vagrant read me file
+It only prints the name of the core operating system
